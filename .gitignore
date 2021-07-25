@@ -1,2 +1,3 @@
 build/*
-!build/build.bat
+!build/djgpp.bat
+!build/owc.bat
